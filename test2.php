@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<?= echo "Hello Baby"; ?>
+<?= ?>
 <?php 
 echo $_SERVER['PHP_SELF'];
 echo "<br>";
