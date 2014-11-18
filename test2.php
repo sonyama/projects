@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-bolo
 <html>
 <body>
 <?= echo "Hello Baby"; ?>
